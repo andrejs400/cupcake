@@ -9,11 +9,11 @@
 		<version>2.4.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
-	<artifactId>dscatalog</artifactId>
+	<groupId>com.andre</groupId>
+	<artifactId>cupcake</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dscatalog</name>
-	<description>DSCatalog Bootcamp DevSuperior</description>
+	<name>cupcake</name>
+	<description>Projeto Integrador Transdisciplinar em Engenharia de Software II</description>
 
 	<properties>
 		<java.version>11</java.version>

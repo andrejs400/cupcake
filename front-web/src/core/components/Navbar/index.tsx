@@ -24,7 +24,7 @@ const Navbar = () => {
     <nav className="bg-primary main-nav">
 
       <Link to="/" className="nav-logo-text">
-        <h4>Ds Catalog</h4>
+        <h4>Cupcakes</h4>
       </Link>
       <button
         className="menu-mobile-btn"
